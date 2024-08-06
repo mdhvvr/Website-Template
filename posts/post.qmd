@@ -5,13 +5,30 @@ format:
   html:
     df-print: paged
     toc: true
-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-  irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-  deserunt mollit anim id est laborum.
-title: Another blogpost example
+text: A Poem about snakes in Arabic
+title: سحر الثعابين
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+تنساب في الليل كالأحلامِ
+تتلوى بحذرٍ بين الصخور
+تسعى في صمتٍ إلى المرامِ
+
+تدور حول نفسها كالأحجية
+تلمع عينُها كالنجمِ البعيدِ
+تغوص في العتمة كالفكرِ الغامضِ
+وتنحت على الرمالِ مسيرَها الجديدِ
+
+جلدُها الزريّ يلمع في الضوء
+وهي ترتعش في أحضانِ الريحِ
+تسمع همساتِ الغابةِ في صمتٍ
+وتدرك أسرارَ الحياةِ بعيداً عن المدى البعيدِ
+
+فيا أيها الثعبانُ في دربك
+سِرْ بسلامٍ، فكلُّ شيءٍ هنا
+له منكَ ما ينسجُ له الحكايةَ
+ويصوغُ من خيوطكَ جمالَ الأغنيةِ الدفينة
+
+
+
+

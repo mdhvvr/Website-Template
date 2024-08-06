@@ -7,11 +7,46 @@
     "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
   },
   {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "سحر الثعابين",
+    "section": "",
+    "text": "تنساب في الليل كالأحلامِ تتلوى بحذرٍ بين الصخور تسعى في صمتٍ إلى المرامِ\nتدور حول نفسها كالأحجية تلمع عينُها كالنجمِ البعيدِ تغوص في العتمة كالفكرِ الغامضِ وتنحت على الرمالِ مسيرَها الجديدِ\nجلدُها الزريّ يلمع في الضوء وهي ترتعش في أحضانِ الريحِ تسمع همساتِ الغابةِ في صمتٍ وتدرك أسرارَ الحياةِ بعيداً عن المدى البعيدِ\nفيا أيها الثعبانُ في دربك سِرْ بسلامٍ، فكلُّ شيءٍ هنا له منكَ ما ينسجُ له الحكايةَ ويصوغُ من خيوطكَ جمالَ الأغنيةِ الدفينة"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "2024\n\nResearcher (2024). A very Cool AI Paper. arXiv 2402.10951."
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnother blogpost example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nسحر الثعابين\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nبرياني الدجاج التقليدي\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m a second year Chemical Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Personal Webpage",
+    "section": "",
+    "text": "I’m a passionate engineering student currently pursuing a B Tech degree at Saintgits College of Engineering\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   {
     "objectID": "posts/post_with_code.html",
@@ -21,10 +56,10 @@
     "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "posts/post2.html",
+    "href": "posts/post2.html",
+    "title": "برياني الدجاج التقليدي",
     "section": "",
-    "text": "I’m a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions."
+    "text": "إليك وصفة دجاج البرياني بالعربية:\n\nبرياني الدجاج\n\nالمكونات:\n\n1 كيلو دجاج، مقطع إلى قطع متوسطة\n2 كوب أرز بسمتي\n1 بصلة كبيرة، مفرومة ناعماً\n2 حبة طماطم، مفرومة\n1 كوب زبادي\n2 ملعقة كبيرة معجون ثوم و زنجبيل\n1/4 كوب زيت نباتي أو سمن\n2 ورقة غار\n4 حبات هيل (حبهان)\n1 ملعقة صغيرة قرفة\n1 ملعقة صغيرة كركم\n1 ملعقة صغيرة فلفل أسود\n1 ملعقة صغيرة كزبرة مطحونة\n1 ملعقة صغيرة كمون مطحون\n1 ملعقة صغيرة بهارات برياني\n1/2 ملعقة صغيرة زعفران (اختياري)\n1/4 كوب حليب دافئ (للزعفران)\nملح حسب الذوق\n1/2 كوب كزبرة خضراء مفرومة\n1/2 كوب نعناع مفروم\n2-3 فلفل أخضر، مفروم (اختياري)\n1/4 كوب زبيب (اختياري)\n1/4 كوب مكسرات محمصة (اختياري)\n\n\n\nطريقة التحضير:\n\nتحضير الأرز:\n\nاغسل الأرز جيداً وضعه في ماء منقوع لمدة 30 دقيقة، ثم صفّيه.\n\nتحضير الدجاج:\n\nفي قدر كبير، سخّن الزيت أو السمن. أضف ورق الغار، الهيل، والقرفة وقلبها قليلاً حتى تفوح رائحتها.\nأضف البصل المفروم وقلّب حتى يصبح ذهبياً.\nأضف معجون الثوم والزنجبيل وقلّب حتى ينضج.\nأضف قطع الدجاج وقلّبها حتى تتحمر.\nأضف الطماطم المفرومة والتوابل (الكركم، الفلفل الأسود، الكزبرة، الكمون، بهارات البرياني) وقلّب جيداً.\nأضف الزبادي وامزجه مع الخليط حتى يتجانس. واتركه يطهى على نار متوسطة حتى ينضج الدجاج.\n\nتحضير الأرز:\n\nفي قدر آخر، اغلي كمية مناسبة من الماء وأضف الملح.\nأضف الأرز المنقوع والمصفى واتركه يغلي حتى ينضج نصف نضج (حوالي 70%).\n\nالتركيب النهائي:\n\nفي قدر عميق، ضع طبقة من الأرز المسلوق.\nضع فوقه طبقة من الدجاج المطبوخ.\nكرر العملية بترتيب طبقات الأرز والدجاج.\nإذا كنت تستخدم الزعفران، اخلطه بالحليب الدافئ واسكبه فوق الطبقات.\nأضف الكزبرة والنعناع فوق الطبقات.\n\nالطهي النهائي:\n\nغطّ القدر واتركه على نار هادئة جداً لمدة 20-30 دقيقة حتى يتجانس النكهات ويكتمل الطهي.\n\nالتقديم:\n\nقدّم البرياني مزيناً بالمكسرات المحمصة والزبيب إذا كنت تستخدمهما.\n\n\nبالهناء والشفاء!"
   }
 ]
